@@ -1,0 +1,58 @@
+1. Before doing any other investigation, list two or three questions that this infographic
+and explanation of methodology raise in your mind.
+
+When was this survey taken? What is the age range of the people survey?
+
+2. Where can you find Google Trends search data? Provide the URL.
+
+https://trends.google.com/trending
+
+3. The article concluded that “milkshakes take the crown as the ultimate breakup food,
+topping the list in six states.” Pull up Google Trends data on Milkshake (beverage) and
+change the date range to February 1, 2024 through February 28, 2025
+
+a) What is the highest peak recorded in the line chart for “Interest over time”?
+	February 28, 2025
+b) What is the lowest dip recorded.
+	November 30, 2024
+
+4. At the top next to the box for “Milkshake,” there is a plus sign to add another search
+term. Click the plus sign to add a search for Hamburger (Food).
+
+a) What is the highest peak recorded for searches using Hamburger? What is the
+lowest dip?
+	Highest: April 30, 2024 Lowest: November 30, 2024
+
+b) What happened to the line for Milkshake? What do the high and low look like now?
+	It combines data for both of them. As if the search is for both of them together.
+5. Why did the line for Milkshake change? Hint: Click on the icon next to "Interest over 
+time" for more information about the trend results are displayed.
+
+Search interest over a specific time period, displayed on a relative scale from 0 to 100, where 100 signifies the peak interest for the time period of the chart. A value of 50 indicates half the popularity of the peak, and 0 suggests insufficient data.
+	 
+6. Add a third term to your search, this time for Breakup (Topic).
+
+a) Do you see any patterns that suggest a relationship between searches for Breakup
+and Hamburger?
+	The more the search for breakup increases, so the search for hamburgers
+
+b) How about between Breakup and Milkshake?
+	It correlate in some points, but in other it does not.
+
+7. What does all of this suggest about the reliability of the conclusions reached in the
+article?
+	That they are basing their survey off of trends on Google. Which is seem as reliable
+
+8. At the upper right of Google Trends, click on the link for “Back to Classic Explore.”
+Notice that this view includes a section for “Compared breakdown by subregion.”
+
+a) What was the top state by interest for Milkshake?
+	North Carolina
+
+b) What was the top state by interest for Hamburger?
+	South Dakota
+
+9. Use the download icon to download a csv file with these search trend results. Save it
+to your DataAnalytics/week-01 folder as GTrends_milkshake_hamburger_2024.csv
+
+
