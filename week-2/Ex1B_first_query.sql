@@ -1,0 +1,3 @@
+/*
+Sakila is a database used to collect information about inventory and payments for use by my SQL
+*/
