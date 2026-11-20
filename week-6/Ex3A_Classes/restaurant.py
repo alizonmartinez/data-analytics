@@ -1,6 +1,6 @@
 # Alizon Martinez
-# 11/19/26
-# Create classes
+# 11/18/26
+# Created classes
 
 class Restaurant:
     """
@@ -12,7 +12,7 @@ class Restaurant:
         self.food_type = food_type
 
     def describe_rest(self):
-        print(f"{self.rest_name} serves {self.food_type}.")
+        print(f"{self.rest_name} serves {self.food_type}.")  
 
     def rest_open(self):
         print(f"{self.rest_name} is open.")
@@ -37,6 +37,8 @@ print()
 
 rest3.describe_rest()
 rest3.rest_open()
+
+
 
 
 
